@@ -12,7 +12,7 @@ public class ProductApp {
 		
 	}
 	
-	public void NEWjABA() {
+	public void jABA() {
 		System.out.println("jABA");
 	}
 }
