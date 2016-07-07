@@ -14,5 +14,9 @@ public class MainClass {
 		System.out.println("Test 1");
 		System.out.println("Test 2");
 	}
+	
+	public void newMethod() {
+		System.out.println("jABA");
+	}
 
 }
