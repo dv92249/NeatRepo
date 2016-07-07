@@ -8,5 +8,11 @@ public class ProductApp {
 		System.out.println("Jaba endhokeyo happened");
 		System.out.println("array val");
 		System.out.println("array val");
+		
+		
+	}
+	
+	public void NEWjABA() {
+		System.out.println("jABA");
 	}
 }
