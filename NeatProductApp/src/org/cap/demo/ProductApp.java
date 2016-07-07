@@ -12,8 +12,9 @@ public class ProductApp {
 		
 	}
 	
-	public void jABA() {
+	public String jABA() {
 		System.out.println("India");
 		System.out.println("jABA");
+		return "jaba";
 	}
 }
