@@ -12,6 +12,7 @@ public class MainClass {
 	public static void greetings() {
 		System.out.println("Happy to see all pdt details");
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 
 }
