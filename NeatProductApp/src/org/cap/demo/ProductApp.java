@@ -6,5 +6,7 @@ public class ProductApp {
 		System.out.println("Pdt display method");
 		System.out.println("For fix case");
 		System.out.println("Jaba endhokeyo happened");
+		System.out.println("array val");
+		System.out.println("array val");
 	}
 }
